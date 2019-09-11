@@ -1,7 +1,7 @@
 function add(a,b) {
     return a+b;
 }
-add(1);
+add(1,3);
 
 
 var num=0;
